@@ -1,3 +1,7 @@
+/*Write a Java program to read two one-dimensional arrays 
+and merge them into a single array, then display the merged 
+array in sorted order.*/
+
 import java.util.*;
 public class MergeSortArray {
     public static void main(String[] args) {
