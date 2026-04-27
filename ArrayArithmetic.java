@@ -1,3 +1,7 @@
+/* Write a Java program to read n elements into a one
+dimensional array and find the sum, average, maximum, and 
+minimum values. */
+
 import java.util.*;
 class ArrayArithmetic {
     public static void main(String[] args) {
